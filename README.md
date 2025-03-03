@@ -125,7 +125,7 @@ http://localhost:3000/user/delete/1
 
 - Masukkan deretan angka
 - Jalankan file `main.js`
-- Contoh hasil
+- Contoh hasil:
 ```
 // Angka yang diinput
 [1, 5, 7, 9, 14, 15]
@@ -140,4 +140,17 @@ http://localhost:3000/user/delete/1
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+- Masukkan deretan nilai di variabel `source`
+- Masukkan target nilai yang ingin dicapai di variabel `target`
 - Jalankan file `main.js`
+- Contoh hasil:
+```
+// Source
+[1, 4, 5, 6]
+
+// Target
+18
+
+// Hasil Output
+(((1 + 5) * 4) - 6)
+```
