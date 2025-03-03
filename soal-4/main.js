@@ -64,6 +64,6 @@ function findFormula(source, target) {
 }
 
 // Eksekusi soal
-const source1 = [1, 4, 5, 6];
-const target1 = 18;
-console.log(findFormula(source1, target1));
+const source = [1, 4, 5, 6];
+const target = 18;
+console.log(findFormula(source, target));
