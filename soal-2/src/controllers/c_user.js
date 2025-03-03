@@ -5,6 +5,7 @@ const err500 = {
   error: "Terjadi kesalahan pada server!",
 };
 
+// POST /user/register
 const register = async (req, res) => {
   const { username, email, password } = req.body;
 
@@ -32,6 +33,7 @@ const register = async (req, res) => {
   }
 };
 
+// GET /view
 const view = async (req, res) => {
   try {
     const users = await m_user.getUser();
@@ -48,6 +50,7 @@ const view = async (req, res) => {
   }
 };
 
+// GET /view/:id
 const viewID = async (req, res) => {
   const userID = req.params.id;
 
@@ -71,6 +74,7 @@ const viewID = async (req, res) => {
   }
 };
 
+// DELETE /delete/:id
 const remove = async (req, res) => {
   const userID = req.params.id;
 
