@@ -115,7 +115,7 @@ http://localhost:3000/user/delete/1
 
 #### 📌 Dokumentasi Lengkap API di Postman
 
-<a href="https://documenter.getpostman.com/view/28557830/2sAYdimoek" target="_blank">Postman API Documentation</a>
+[Postman API Documentation](https://documenter.getpostman.com/view/28557830/2sAYdimoek)
 
 ### :three: Soal 3 (Angka yang Hilang)
 
