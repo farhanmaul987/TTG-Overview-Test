@@ -125,6 +125,14 @@ http://localhost:3000/user/delete/1
 
 - Masukkan deretan angka
 - Jalankan file `main.js`
+- Contoh hasil
+```
+// Angka yang diinput
+[1, 5, 7, 9, 14, 15]
+
+// Hasil Output
+[2,  3,  4,  6, 8, 10, 11, 12, 13]
+```
 
 ### :four: Soal 4 (Formula Perhitungan)
 
