@@ -1,4 +1,3 @@
-# TTG-Overview-Test
 <h1 align="center">TTG Overview Test</h1>
 
 <p style='text-align: justify;'>Repositori ini merupakan project yang dibuat untuk menyelesaikan tugas Overview Test oleh PT Tim Teknologi Global sebagai tes tahap ketiga perekrutan Fullstack Developer.</p>
