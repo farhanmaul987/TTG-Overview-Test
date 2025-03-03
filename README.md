@@ -42,9 +42,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - Buka `index.html`
-- Masukkan email, nama, dan password
+- Masukkan email, username, dan password
 - Tekan tombol `Daftar`
 - Jika semua validasi berhasil, maka akan muncul pesan `Pendaftaran Berhasil!`
+- Hasil dari data yang berhasil diinputkan dapat dilihat di console
 
 ### :two: Soal 2 (Backend)
 
@@ -100,7 +101,7 @@ http://localhost:3000/user/register
 http://localhost:3000/user/view
 ```
 
-- Pada `View by ID` masukkan link dibawah, tentukan `id` yang ingin diambil lalu tekan `Send`
+- Pada `View by ID` masukkan link dibawah, tentukan `id` yang ingin ditampilkan lalu tekan `Send`
 
 ```
 http://localhost:3000/user/view/1
@@ -114,7 +115,7 @@ http://localhost:3000/user/delete/1
 
 #### 📌 Dokumentasi Lengkap API di Postman
 
-[Postman API Documentation](https://documenter.getpostman.com/view/28557830/2sAYdimoek)
+<a href="https://documenter.getpostman.com/view/28557830/2sAYdimoek" target="_blank">Postman API Documentation</a>
 
 ### :three: Soal 3 (Angka yang Hilang)
 
